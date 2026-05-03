@@ -119,7 +119,7 @@ Processed data:
 
 All commands are provided in:
 
-experiments.ipynb
+[experiments.ipynb](experiments.ipynb)
 
 
 ## 📖 Citation
