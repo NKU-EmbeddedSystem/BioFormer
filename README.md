@@ -89,7 +89,9 @@ tqdm==4.64.1
 
 Install:
 
+```bash
 pip install -r requirements.txt
+```
 
 ## 📊 Datasets
 
