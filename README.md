@@ -1,6 +1,6 @@
 # BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series
 
-Paper: [![Preprint](https://arxiv.org/pdf/2605.22468)
+Paper: [Preprint](https://arxiv.org/pdf/2605.22468)
 
 ---
 
